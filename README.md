@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Java程序员/足球爱好者 From 南京
+#### 微信 18261937866
 <!--
 **ChristianZhou/ChristianZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
